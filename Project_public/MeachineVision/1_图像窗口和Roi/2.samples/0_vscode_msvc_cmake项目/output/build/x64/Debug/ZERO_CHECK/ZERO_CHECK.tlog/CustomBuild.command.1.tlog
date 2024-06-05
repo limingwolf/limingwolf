@@ -1,0 +1,10 @@
+^D:\PROJECT\PROJECT_PUBLIC\MEACHINEVISION\1_图像窗口和ROI\2.SAMPLES\0_VSCODE_MSVC_CMAKE项目\OUTPUT\BUILD\CMAKEFILES\C5767C908A6D29F0FB256EE0B1F3660F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Project/Project_public/MeachineVision/1_图像窗口和Roi/2.samples/0_vscode_msvc_cmake项目 -BD:/Project/Project_public/MeachineVision/1_图像窗口和Roi/2.samples/0_vscode_msvc_cmake项目/output/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Project/Project_public/MeachineVision/1_图像窗口和Roi/2.samples/0_vscode_msvc_cmake项目/output/build/Project.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

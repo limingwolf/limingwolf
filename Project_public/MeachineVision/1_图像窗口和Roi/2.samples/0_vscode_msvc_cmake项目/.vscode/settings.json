@@ -1,0 +1,13 @@
+{
+  "cmake.generator": "Visual Studio 17 2022",
+  "cmake.sourceDirectory": "${workspaceFolder}",
+  "cmake.buildDirectory": "${workspaceFolder}/output/build",
+  "cmake.configureSettings": {
+    "CMAKE_RUNTIME_OUTPUT_DIRECTORY": "${workspaceFolder}/output/exe",
+    "CMAKE_ARCHIVE_OUTPUT_DIRECTORY": "${workspaceFolder}/output/lib",
+    "CMAKE_LIBRARY_OUTPUT_DIRECTORY": "${workspaceFolder}/output/lib"
+  },
+  "files.associations": {
+    "ostream": "cpp"
+  }
+}

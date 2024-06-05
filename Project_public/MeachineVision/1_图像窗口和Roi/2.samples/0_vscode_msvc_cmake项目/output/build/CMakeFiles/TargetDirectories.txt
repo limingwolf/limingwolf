@@ -1,0 +1,3 @@
+D:/Project/Project_public/MeachineVision/1_图像窗口和Roi/2.samples/0_vscode_msvc_cmake项目/output/build/CMakeFiles/Project.dir
+D:/Project/Project_public/MeachineVision/1_图像窗口和Roi/2.samples/0_vscode_msvc_cmake项目/output/build/CMakeFiles/ALL_BUILD.dir
+D:/Project/Project_public/MeachineVision/1_图像窗口和Roi/2.samples/0_vscode_msvc_cmake项目/output/build/CMakeFiles/ZERO_CHECK.dir
