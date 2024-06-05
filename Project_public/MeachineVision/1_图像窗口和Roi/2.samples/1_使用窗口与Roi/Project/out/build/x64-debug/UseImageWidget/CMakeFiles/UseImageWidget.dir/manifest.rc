@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/TaoWine/VisionSoftware/TWVision2.0/TWVision/ImageWidget/output/bin/ImageWidget/2.samples/1_使用窗口与Roi/Project/out/build/x64-debug/UseImageWidget/CMakeFiles/UseImageWidget.dir/embed.manifest"

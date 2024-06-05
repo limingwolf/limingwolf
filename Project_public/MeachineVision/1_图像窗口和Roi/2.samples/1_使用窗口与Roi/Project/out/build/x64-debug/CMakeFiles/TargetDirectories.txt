@@ -1,0 +1,5 @@
+D:/TaoWine/VisionSoftware/TWVision2.0/TWVision/ImageWidget/output/bin/ImageWidget/2.samples/1_使用窗口与Roi/Project/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/TaoWine/VisionSoftware/TWVision2.0/TWVision/ImageWidget/output/bin/ImageWidget/2.samples/1_使用窗口与Roi/Project/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/TaoWine/VisionSoftware/TWVision2.0/TWVision/ImageWidget/output/bin/ImageWidget/2.samples/1_使用窗口与Roi/Project/out/build/x64-debug/UseImageWidget/CMakeFiles/UseImageWidget.dir
+D:/TaoWine/VisionSoftware/TWVision2.0/TWVision/ImageWidget/output/bin/ImageWidget/2.samples/1_使用窗口与Roi/Project/out/build/x64-debug/UseImageWidget/CMakeFiles/edit_cache.dir
+D:/TaoWine/VisionSoftware/TWVision2.0/TWVision/ImageWidget/output/bin/ImageWidget/2.samples/1_使用窗口与Roi/Project/out/build/x64-debug/UseImageWidget/CMakeFiles/rebuild_cache.dir

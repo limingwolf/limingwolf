@@ -1,0 +1,76 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "UseImageWidget",
+					"jsonFile" : "directory-UseImageWidget-Debug-a7f16f9ebd3d50898d04.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "UseImageWidget",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "UseImageWidget::@e9e74a256b54fc8bb7e3",
+					"jsonFile" : "target-UseImageWidget-Debug-0c79719bae7b03d55c30.json",
+					"name" : "UseImageWidget",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/TaoWine/VisionSoftware/TWVision2.0/TWVision/ImageWidget/output/bin/ImageWidget/2.samples/1_\u4f7f\u7528\u7a97\u53e3\u4e0eRoi/Project/out/build/x64-debug",
+		"source" : "D:/TaoWine/VisionSoftware/TWVision2.0/TWVision/ImageWidget/output/bin/ImageWidget/2.samples/1_\u4f7f\u7528\u7a97\u53e3\u4e0eRoi/Project"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
